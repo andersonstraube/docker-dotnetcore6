@@ -1,0 +1,1 @@
+docker run -d -p 2860:80 --name dockerdotnet -e PORT=80 dockerdotnet
